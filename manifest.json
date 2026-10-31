@@ -1,0 +1,497 @@
+[
+  {
+    "file": "pasos\\00_1.png",
+    "scene": 1,
+    "step": 1
+  },
+  {
+    "file": "pasos\\00_2.png",
+    "scene": 1,
+    "step": 2
+  },
+  {
+    "file": "pasos\\00_3.png",
+    "scene": 1,
+    "step": 3
+  },
+  {
+    "file": "pasos\\01_1.png",
+    "scene": 2,
+    "step": 1
+  },
+  {
+    "file": "pasos\\01_2.png",
+    "scene": 2,
+    "step": 2
+  },
+  {
+    "file": "pasos\\01_3.png",
+    "scene": 2,
+    "step": 3
+  },
+  {
+    "file": "pasos\\02_1.png",
+    "scene": 3,
+    "step": 1
+  },
+  {
+    "file": "pasos\\02_2.png",
+    "scene": 3,
+    "step": 2
+  },
+  {
+    "file": "pasos\\02_3.png",
+    "scene": 3,
+    "step": 3
+  },
+  {
+    "file": "pasos\\03_1.png",
+    "scene": 4,
+    "step": 1
+  },
+  {
+    "file": "pasos\\03_2.png",
+    "scene": 4,
+    "step": 2
+  },
+  {
+    "file": "pasos\\03_3.png",
+    "scene": 4,
+    "step": 3
+  },
+  {
+    "file": "pasos\\04_1.png",
+    "scene": 5,
+    "step": 1
+  },
+  {
+    "file": "pasos\\04_2.png",
+    "scene": 5,
+    "step": 2
+  },
+  {
+    "file": "pasos\\04_3.png",
+    "scene": 5,
+    "step": 3
+  },
+  {
+    "file": "pasos\\05_1.png",
+    "scene": 6,
+    "step": 1
+  },
+  {
+    "file": "pasos\\05_2.png",
+    "scene": 6,
+    "step": 2
+  },
+  {
+    "file": "pasos\\05_3.png",
+    "scene": 6,
+    "step": 3
+  },
+  {
+    "file": "pasos\\06_1.png",
+    "scene": 7,
+    "step": 1
+  },
+  {
+    "file": "pasos\\06_2.png",
+    "scene": 7,
+    "step": 2
+  },
+  {
+    "file": "pasos\\06_3.png",
+    "scene": 7,
+    "step": 3
+  },
+  {
+    "file": "pasos\\07_1.png",
+    "scene": 8,
+    "step": 1
+  },
+  {
+    "file": "pasos\\07_2.png",
+    "scene": 8,
+    "step": 2
+  },
+  {
+    "file": "pasos\\07_3.png",
+    "scene": 8,
+    "step": 3
+  },
+  {
+    "file": "pasos\\08_1.png",
+    "scene": 9,
+    "step": 1
+  },
+  {
+    "file": "pasos\\08_2.png",
+    "scene": 9,
+    "step": 2
+  },
+  {
+    "file": "pasos\\08_3.png",
+    "scene": 9,
+    "step": 3
+  },
+  {
+    "file": "pasos\\09_1.png",
+    "scene": 10,
+    "step": 1
+  },
+  {
+    "file": "pasos\\09_2.png",
+    "scene": 10,
+    "step": 2
+  },
+  {
+    "file": "pasos\\09_3.png",
+    "scene": 10,
+    "step": 3
+  },
+  {
+    "file": "pasos\\10_1.png",
+    "scene": 11,
+    "step": 1
+  },
+  {
+    "file": "pasos\\10_2.png",
+    "scene": 11,
+    "step": 2
+  },
+  {
+    "file": "pasos\\10_3.png",
+    "scene": 11,
+    "step": 3
+  },
+  {
+    "file": "pasos\\11_1.png",
+    "scene": 12,
+    "step": 1
+  },
+  {
+    "file": "pasos\\11_2.png",
+    "scene": 12,
+    "step": 2
+  },
+  {
+    "file": "pasos\\11_3.png",
+    "scene": 12,
+    "step": 3
+  },
+  {
+    "file": "pasos\\12_1.png",
+    "scene": 13,
+    "step": 1
+  },
+  {
+    "file": "pasos\\12_2.png",
+    "scene": 13,
+    "step": 2
+  },
+  {
+    "file": "pasos\\12_3.png",
+    "scene": 13,
+    "step": 3
+  },
+  {
+    "file": "pasos\\13_1.png",
+    "scene": 14,
+    "step": 1
+  },
+  {
+    "file": "pasos\\13_2.png",
+    "scene": 14,
+    "step": 2
+  },
+  {
+    "file": "pasos\\13_3.png",
+    "scene": 14,
+    "step": 3
+  },
+  {
+    "file": "pasos\\14_1.png",
+    "scene": 15,
+    "step": 1
+  },
+  {
+    "file": "pasos\\14_2.png",
+    "scene": 15,
+    "step": 2
+  },
+  {
+    "file": "pasos\\14_3.png",
+    "scene": 15,
+    "step": 3
+  },
+  {
+    "file": "pasos\\15_1.png",
+    "scene": 16,
+    "step": 1
+  },
+  {
+    "file": "pasos\\15_2.png",
+    "scene": 16,
+    "step": 2
+  },
+  {
+    "file": "pasos\\15_3.png",
+    "scene": 16,
+    "step": 3
+  },
+  {
+    "file": "pasos\\16_1.png",
+    "scene": 17,
+    "step": 1
+  },
+  {
+    "file": "pasos\\16_2.png",
+    "scene": 17,
+    "step": 2
+  },
+  {
+    "file": "pasos\\16_3.png",
+    "scene": 17,
+    "step": 3
+  },
+  {
+    "file": "pasos\\17_1.png",
+    "scene": 18,
+    "step": 1
+  },
+  {
+    "file": "pasos\\17_2.png",
+    "scene": 18,
+    "step": 2
+  },
+  {
+    "file": "pasos\\17_3.png",
+    "scene": 18,
+    "step": 3
+  },
+  {
+    "file": "pasos\\18_1.png",
+    "scene": 19,
+    "step": 1
+  },
+  {
+    "file": "pasos\\18_2.png",
+    "scene": 19,
+    "step": 2
+  },
+  {
+    "file": "pasos\\18_3.png",
+    "scene": 19,
+    "step": 3
+  },
+  {
+    "file": "pasos\\19_1.png",
+    "scene": 20,
+    "step": 1
+  },
+  {
+    "file": "pasos\\19_2.png",
+    "scene": 20,
+    "step": 2
+  },
+  {
+    "file": "pasos\\19_3.png",
+    "scene": 20,
+    "step": 3
+  },
+  {
+    "file": "pasos\\20_1.png",
+    "scene": 21,
+    "step": 1
+  },
+  {
+    "file": "pasos\\20_2.png",
+    "scene": 21,
+    "step": 2
+  },
+  {
+    "file": "pasos\\20_3.png",
+    "scene": 21,
+    "step": 3
+  },
+  {
+    "file": "pasos\\21_1.png",
+    "scene": 22,
+    "step": 1
+  },
+  {
+    "file": "pasos\\21_2.png",
+    "scene": 22,
+    "step": 2
+  },
+  {
+    "file": "pasos\\21_3.png",
+    "scene": 22,
+    "step": 3
+  },
+  {
+    "file": "pasos\\22_1.png",
+    "scene": 23,
+    "step": 1
+  },
+  {
+    "file": "pasos\\22_2.png",
+    "scene": 23,
+    "step": 2
+  },
+  {
+    "file": "pasos\\22_3.png",
+    "scene": 23,
+    "step": 3
+  },
+  {
+    "file": "pasos\\23_1.png",
+    "scene": 24,
+    "step": 1
+  },
+  {
+    "file": "pasos\\23_2.png",
+    "scene": 24,
+    "step": 2
+  },
+  {
+    "file": "pasos\\23_3.png",
+    "scene": 24,
+    "step": 3
+  },
+  {
+    "file": "pasos\\24_1.png",
+    "scene": 25,
+    "step": 1
+  },
+  {
+    "file": "pasos\\24_2.png",
+    "scene": 25,
+    "step": 2
+  },
+  {
+    "file": "pasos\\24_3.png",
+    "scene": 25,
+    "step": 3
+  },
+  {
+    "file": "pasos\\25_1.png",
+    "scene": 26,
+    "step": 1
+  },
+  {
+    "file": "pasos\\25_2.png",
+    "scene": 26,
+    "step": 2
+  },
+  {
+    "file": "pasos\\25_3.png",
+    "scene": 26,
+    "step": 3
+  },
+  {
+    "file": "pasos\\26_1.png",
+    "scene": 27,
+    "step": 1
+  },
+  {
+    "file": "pasos\\26_2.png",
+    "scene": 27,
+    "step": 2
+  },
+  {
+    "file": "pasos\\26_3.png",
+    "scene": 27,
+    "step": 3
+  },
+  {
+    "file": "pasos\\27_1.png",
+    "scene": 28,
+    "step": 1
+  },
+  {
+    "file": "pasos\\27_2.png",
+    "scene": 28,
+    "step": 2
+  },
+  {
+    "file": "pasos\\27_3.png",
+    "scene": 28,
+    "step": 3
+  },
+  {
+    "file": "pasos\\28_1.png",
+    "scene": 29,
+    "step": 1
+  },
+  {
+    "file": "pasos\\28_2.png",
+    "scene": 29,
+    "step": 2
+  },
+  {
+    "file": "pasos\\28_3.png",
+    "scene": 29,
+    "step": 3
+  },
+  {
+    "file": "pasos\\29_1.png",
+    "scene": 30,
+    "step": 1
+  },
+  {
+    "file": "pasos\\29_2.png",
+    "scene": 30,
+    "step": 2
+  },
+  {
+    "file": "pasos\\29_3.png",
+    "scene": 30,
+    "step": 3
+  },
+  {
+    "file": "pasos\\30_1.png",
+    "scene": 31,
+    "step": 1
+  },
+  {
+    "file": "pasos\\30_2.png",
+    "scene": 31,
+    "step": 2
+  },
+  {
+    "file": "pasos\\30_3.png",
+    "scene": 31,
+    "step": 3
+  },
+  {
+    "file": "pasos\\31_1.png",
+    "scene": 32,
+    "step": 1
+  },
+  {
+    "file": "pasos\\31_2.png",
+    "scene": 32,
+    "step": 2
+  },
+  {
+    "file": "pasos\\31_3.png",
+    "scene": 32,
+    "step": 3
+  },
+  {
+    "file": "pasos\\32_1.png",
+    "scene": 33,
+    "step": 1
+  },
+  {
+    "file": "pasos\\32_2.png",
+    "scene": 33,
+    "step": 2
+  },
+  {
+    "file": "pasos\\32_3.png",
+    "scene": 33,
+    "step": 3
+  }
+]
